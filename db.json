@@ -179,5 +179,20 @@
       "id": "pHu4Yya3QHk"
     }
   ],
+  "boards": [
+    {
+      "id": 1,
+      "name": "CR-205",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "favorite": false,
+      "userId": "1",
+      "columns": {
+        "todo": [],
+        "inprogress": [],
+        "review": [],
+        "done": []
+      }
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
